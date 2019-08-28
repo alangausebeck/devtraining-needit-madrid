@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1" max_length="40" name="x_58872_needit_table1" type="collection">
+        <element label="Column01" max_length="100" name="column1" type="string"/>
+        <element label="column10" max_length="40" name="column10" type="audio"/>
+        <element label="Column100" max_length="40" name="column100" type="boolean"/>
+        <element label="Column101" max_length="800" name="column101" type="data_structure"/>
+        <element label="column11" max_length="4000" name="column11" type="conditions"/>
+        <element label="column12" max_length="8000" name="column12" type="script"/>
+        <element label="column13" max_length="8000" name="column13" type="html"/>
+        <element label="column14" max_length="40" name="column14" type="ip_addr"/>
+        <element label="column15" max_length="80" name="column15" type="field_name"/>
+        <element label="column16" max_length="4000" name="column16" type="journal_input"/>
+        <element label="column17" max_length="4000" name="column17" type="journal_list"/>
+        <element choice="1" label="column18" max_length="40" name="column18" type="choice">
+            <choice/>
+        </element>
+        <element label="column19" max_length="32" name="column19" reference="alm_asset" type="reference"/>
+        <element label="Column02" max_length="255" name="column2" type="password2"/>
+        <element label="column20" max_length="40" name="column20" type="longint"/>
+        <element label="column21" max_length="40" name="column21" type="color"/>
+        <element label="column22" max_length="255" name="column22" type="string_full_utf8"/>
+        <element label="column23" max_length="1024" name="column23" type="url"/>
+        <element label="column24" max_length="4000" name="column24" type="simple_name_values"/>
+        <element label="column25" max_length="15" name="column25" type="percent_complete"/>
+        <element label="column26" max_length="40" name="column26" type="float"/>
+        <element label="column27" max_length="40" name="column27" type="glide_date"/>
+        <element label="column28" max_length="40" name="column28" type="glide_date_time"/>
+        <element label="column29" max_length="40" name="column29" type="glide_time"/>
+        <element label="Column03" max_length="40" name="column3" type="boolean"/>
+        <element label="column30" max_length="40" name="column30" type="video"/>
+        <element label="column31" max_length="65536" name="column31" type="wiki_text"/>
+        <element label="column32" max_length="32" name="column32" type="document_id"/>
+        <element label="column33" max_length="40" name="column33" type="glide_duration"/>
+        <element label="column34" max_length="40" name="column34" type="integer"/>
+        <element label="column35" max_length="40" name="column35" type="phone_number_e164"/>
+        <element label="column36" max_length="8000" name="column36" type="script_plain"/>
+        <element label="column37" max_length="32" name="column37" type="domain_id"/>
+        <element label="column38" max_length="80" name="column38" type="workflow"/>
+        <element label="column39" max_length="80" name="column39" type="table_name"/>
+        <element label="Column04" max_length="800" name="column4" type="data_structure"/>
+        <element label="column40" max_length="4000" name="column40" type="glide_list"/>
+        <element label="column41" max_length="40" name="column41" type="user_image"/>
+        <element label="column42" max_length="40" name="column42" type="file_attachment"/>
+        <element label="column43" max_length="40" name="column43" type="translated_text"/>
+        <element label="column44" max_length="4000" name="column44" type="journal"/>
+        <element label="column45" max_length="20" name="column45" type="decimal"/>
+        <element label="column46" max_length="20" name="column46" type="currency"/>
+        <element label="column47" max_length="20" name="column47" type="price"/>
+        <element label="column48" max_length="40" name="column48" type="condition_string"/>
+        <element label="column49" max_length="255" name="column49" type="password2"/>
+        <element label="Column05" max_length="40" name="column5" type="due_date"/>
+        <element label="column50" max_length="40" name="column50" type="boolean"/>
+        <element label="column51" max_length="800" name="column51" type="data_structure"/>
+        <element label="Column52" max_length="255" name="column52" type="password2"/>
+        <element label="Column53" max_length="40" name="column53" type="boolean"/>
+        <element label="Column54" max_length="800" name="column54" type="data_structure"/>
+        <element label="Column55" max_length="40" name="column55" type="due_date"/>
+        <element label="Column56" max_length="100" name="column56" type="icon"/>
+        <element label="Column57" max_length="40" name="column57" type="password"/>
+        <element label="Column58" max_length="8000" name="column58" type="translated_html"/>
+        <element label="Column59" max_length="40" name="column59" type="audio"/>
+        <element label="Column06" max_length="100" name="column6" type="icon"/>
+        <element label="Column60" max_length="4000" name="column60" type="conditions"/>
+        <element label="Column61" max_length="8000" name="column61" type="script"/>
+        <element label="Column62" max_length="8000" name="column62" type="html"/>
+        <element label="Column63" max_length="40" name="column63" type="ip_addr"/>
+        <element label="Column64" max_length="80" name="column64" type="field_name"/>
+        <element label="Column65" max_length="4000" name="column65" type="journal_input"/>
+        <element label="Column66" max_length="4000" name="column66" type="journal_list"/>
+        <element choice="1" label="Column67" max_length="40" name="column67" type="choice">
+            <choice/>
+        </element>
+        <element label="Column68" max_length="32" name="column68" reference="alm_asset_ci_field_mapping" type="reference"/>
+        <element label="Column69" max_length="40" name="column69" type="longint"/>
+        <element label="Column07" max_length="40" name="column7" type="password"/>
+        <element label="Column70" max_length="40" name="column70" type="color"/>
+        <element label="Column71" max_length="255" name="column71" type="string_full_utf8"/>
+        <element label="Column72" max_length="1024" name="column72" type="url"/>
+        <element label="Column73" max_length="40" name="column73" type="string"/>
+        <element label="Column74" max_length="4000" name="column74" type="simple_name_values"/>
+        <element label="Column75" max_length="15" name="column75" type="percent_complete"/>
+        <element label="Column76" max_length="40" name="column76" type="float"/>
+        <element label="Column77" max_length="40" name="column77" type="glide_date"/>
+        <element label="Column78" max_length="40" name="column78" type="glide_date_time"/>
+        <element label="Column79" max_length="40" name="column79" type="glide_time"/>
+        <element label="Column08" max_length="40" name="column8" type="password"/>
+        <element label="Column80" max_length="40" name="column80" type="video"/>
+        <element label="Column81" max_length="65536" name="column81" type="wiki_text"/>
+        <element label="Column82" max_length="32" name="column82" type="document_id"/>
+        <element label="Column83" max_length="40" name="column83" type="glide_duration"/>
+        <element label="Column84" max_length="40" name="column84" type="integer"/>
+        <element label="Column85" max_length="40" name="column85" type="phone_number_e164"/>
+        <element label="Column86" max_length="8000" name="column86" type="script_plain"/>
+        <element label="Column87" max_length="32" name="column87" type="domain_id"/>
+        <element label="Column88" max_length="80" name="column88" type="workflow"/>
+        <element label="Column89" max_length="80" name="column89" type="table_name"/>
+        <element label="Column09" max_length="8000" name="column9" type="translated_html"/>
+        <element label="Column90" max_length="4000" name="column90" type="glide_list"/>
+        <element label="Column91" max_length="40" name="column91" type="user_image"/>
+        <element label="Column92" max_length="40" name="column92" type="file_attachment"/>
+        <element label="Column93" max_length="40" name="column93" type="translated_text"/>
+        <element label="Column94" max_length="4000" name="column94" type="journal"/>
+        <element label="Column95" max_length="20" name="column95" type="decimal"/>
+        <element label="Column96" max_length="20" name="column96" type="currency"/>
+        <element label="Column97" max_length="20" name="column97" type="price"/>
+        <element label="Column98" max_length="40" name="column98" type="condition_string"/>
+        <element label="Column99" max_length="255" name="column99" type="password2"/>
+        <index name="index">
+            <element name="column32"/>
+        </index>
+        <index name="index2">
+            <element name="column87"/>
+        </index>
+        <index name="index3">
+            <element name="column82"/>
+        </index>
+        <index name="index4">
+            <element name="column19"/>
+        </index>
+        <index name="index5">
+            <element name="column37"/>
+        </index>
+        <index name="index6">
+            <element name="column68"/>
+        </index>
+    </element>
+</database>
