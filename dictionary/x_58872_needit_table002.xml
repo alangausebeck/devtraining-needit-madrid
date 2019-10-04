@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element max_length="40" name="x_58872_needit_table002" type="collection">
+        <element label="String001" max_length="400" name="string001" type="string"/>
+        <element label="String002" max_length="4000" name="string002" type="string"/>
+        <element label="String003" max_length="40000" name="string003" type="string"/>
+        <element label="String004" max_length="4000" name="string004" type="string"/>
+        <element label="String005" max_length="4000" name="string005" type="string"/>
+        <element label="String006" max_length="4000" name="string006" type="string"/>
+        <element label="String007" max_length="4000" name="string007" type="string"/>
+        <element label="String008" max_length="4000" name="string008" type="string"/>
+        <element label="String009" max_length="4000" name="string009" type="string"/>
+        <element label="String010" max_length="4000" name="string010" type="string"/>
+        <element label="String011" max_length="4000" name="string011" type="string"/>
+        <element label="String012" max_length="4000" name="string012" type="string"/>
+        <element label="String013" max_length="4000" name="string013" type="string"/>
+        <element label="String014" max_length="4000" name="string014" type="string"/>
+        <element label="String015" max_length="4000" name="string015" type="string"/>
+    </element>
+</database>
