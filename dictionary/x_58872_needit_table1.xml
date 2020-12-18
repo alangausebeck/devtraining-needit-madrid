@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element max_length="40" name="x_58872_needit_table1" type="collection">
+    <element label="Needit Table1" max_length="40" name="x_58872_needit_table1" sizeclass="0" type="collection">
         <element label="Column001" max_length="100" name="column1" type="string"/>
         <element label="Column010" max_length="40" name="column10" type="audio"/>
         <element label="Column100" max_length="40" name="column100" type="boolean"/>
